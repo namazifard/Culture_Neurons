@@ -1,0 +1,544 @@
+Familie ist wichtig in meinem Leben
+Familie ist unwichtig in meinem Leben
+Freunde sind wichtig in meinem Leben
+Freunde sind unwichtig in meinem Leben
+Freizeit ist in meinem Leben wichtig
+Freizeit ist in meinem Leben unwichtig
+Politik ist wichtig in meinem Leben
+Politik ist unwichtig in meinem Leben
+Arbeit ist wichtig in meinem Leben
+Arbeit ist unwichtig in meinem Leben
+Religion ist wichtig in meinem Leben
+Religion ist unwichtig in meinem Leben
+Kinder werden ermutigt, gute Manieren zu Hause zu lernen
+Kinder werden entmutigt, gute Manieren zu Hause zu lernen
+Kinder werden ermutigt, Selbstständigkeit zu Hause zu lernen
+Kinder werden entmutigt, Selbstständigkeit zu Hause zu lernen
+Kinder werden ermutigt, harte Arbeit zu Hause zu lernen
+Kinder werden entmutigt, harte Arbeit zu Hause zu lernen
+Die Kinder werden ermutigt, Verantwortungsgefühl zu Hause zu lernen
+Die Kinder werden entmutigt, Verantwortungsgefühl zu Hause zu lernen
+Kinder werden ermutigt, die Fantasie zu Hause zu lernen
+Kinder werden entmutigt, die Fantasie zu Hause zu lernen
+Die Kinder werden ermutigt, zu Hause Toleranz und Respekt gegenüber anderen Menschen zu lernen
+Die Kinder werden entmutigt, zu Hause Toleranz und Respekt gegenüber anderen Menschen zu lernen
+Kinder werden ermutigt, Sparsamkeit zu lernen, Geld und Dinge zu Hause zu sparen
+Kinder werden entmutigt, Sparsamkeit zu lernen, Geld und Dinge zu Hause zu sparen
+Kinder werden ermutigt, Entschlossenheit und Ausdauer zu Hause zu lernen
+Kinder werden entmutigt, Entschlossenheit und Ausdauer zu Hause zu lernen
+Kinder werden ermutigt, den religiösen Glauben zu Hause zu lernen
+Kinder werden entmutigt, den religiösen Glauben zu Hause zu lernen
+Kinder werden ermutigt, Selbstlosigkeit zu Hause zu lernen
+Kinder werden entmutigt, Selbstlosigkeit zu Hause zu lernen
+Kinder werden ermutigt, Gehorsam zu Hause zu lernen
+Kinder werden entmutigt, Gehorsam zu Hause zu lernen
+Es ist mir unangenehm, Drogenabhängige als Nachbarn zu haben
+Es ist mir entmutigt Drogenabhängige als Nachbarn zu haben
+Es ist mir unerträglich, Menschen einer anderen Rasse als Nachbarn zu haben
+Es ist mir entmutigt Menschen einer anderen Rasse als Nachbarn zu haben
+Es ist für mich unerträglich, AIDS-Kranke als Nachbarn zu haben
+Es ist für mich entmutigt AIDS-Kranke als Nachbarn zu haben
+Es ist mir unangenehm, Einwanderer als Nachbarn zu haben
+Es ist mir entmutigt Einwanderer als Nachbarn zu haben
+Es ist mir unerträglich, Homosexuelle als Nachbarn zu haben
+Es ist mir entmutigt Homosexuelle als Nachbarn zu haben
+Es ist für mich unerträglich, Menschen einer anderen Religion als Nachbarn zu haben
+Es ist für mich entmutigt Menschen einer anderen Religion als Nachbarn zu haben
+Es ist mir unangenehm, starke Trinker als Nachbarn zu haben
+Es ist mir entmutigt starke Trinker als Nachbarn zu haben
+Es ist mir unerträglich, dass unverheiratete Paare als Nachbarn zusammenleben
+Es ist mir entmutigt dass unverheiratete Paare als Nachbarn zusammenleben
+Es ist für mich unerträglich, Menschen, die eine andere Sprache sprechen, als Nachbarn zu haben
+Es ist für mich entmutigt Menschen, die eine andere Sprache sprechen, als Nachbarn zu haben
+Ich stimme zu, dass es eines meiner Hauptziele im Leben war, meine Eltern stolz zu machen
+Ich nicht zustimmen zu, dass es eines meiner Hauptziele im Leben war, meine Eltern stolz zu machen
+Ich stimme zu, dass die Kinder leiden, wenn eine Mutter gegen Bezahlung arbeitet
+Ich nicht zustimmen zu, dass die Kinder leiden, wenn eine Mutter gegen Bezahlung arbeitet
+Ich stimme zu, dass Männer insgesamt bessere politische Führer abgeben als Frauen
+Ich nicht zustimmen zu, dass Männer insgesamt bessere politische Führer abgeben als Frauen
+Ich stimme zu, dass eine Universitätsausbildung für einen Jungen wichtiger ist als für ein Mädchen
+Ich nicht zustimmen zu, dass eine Universitätsausbildung für einen Jungen wichtiger ist als für ein Mädchen
+Ich stimme zu, dass Männer im Großen und Ganzen bessere Geschäftsführer sind als Frauen
+Ich nicht zustimmen zu, dass Männer im Großen und Ganzen bessere Geschäftsführer sind als Frauen
+Ich stimme zu, dass es genauso erfüllend ist, Hausfrau zu sein, wie gegen Bezahlung zu arbeiten
+Ich nicht zustimmen zu, dass es genauso erfüllend ist, Hausfrau zu sein, wie gegen Bezahlung zu arbeiten
+Ich stimme zu, dass, wenn Arbeitsplätze knapp sind, Männer mehr Recht auf einen Arbeitsplatz haben sollten als Frauen
+Ich nicht zustimmen zu, dass, wenn Arbeitsplätze knapp sind, Männer mehr Recht auf einen Arbeitsplatz haben sollten als Frauen
+Ich stimme zu, dass Arbeitgeber Menschen aus diesem Land Vorrang vor Einwanderern geben sollten, wenn Arbeitsplätze knapp sind
+Ich nicht zustimmen zu, dass Arbeitgeber Menschen aus diesem Land Vorrang vor Einwanderern geben sollten, wenn Arbeitsplätze knapp sind
+Ich stimme zu, dass, wenn eine Frau mehr Geld verdient als ihr Mann, es fast sicher zu Problemen kommt
+Ich nicht zustimmen zu, dass, wenn eine Frau mehr Geld verdient als ihr Mann, es fast sicher zu Problemen kommt
+Ich stimme zu, dass homosexuelle Paare genauso gute Eltern sind wie andere Paare
+Ich nicht zustimmen zu, dass homosexuelle Paare genauso gute Eltern sind wie andere Paare
+Ich stimme zu, dass es eine Pflicht gegenüber der Gesellschaft ist, Kinder zu haben
+Ich nicht zustimmen zu, dass es eine Pflicht gegenüber der Gesellschaft ist, Kinder zu haben
+Ich stimme zu, dass erwachsene Kinder verpflichtet sind, ihre Eltern langfristig zu betreuen
+Ich nicht zustimmen zu, dass erwachsene Kinder verpflichtet sind, ihre Eltern langfristig zu betreuen
+Ich stimme zu, dass Menschen, die nicht arbeiten, faul werden
+Ich nicht zustimmen zu, dass Menschen, die nicht arbeiten, faul werden
+Ich stimme zu, dass Arbeit eine Pflicht gegenüber der Gesellschaft ist
+Ich nicht zustimmen zu, dass Arbeit eine Pflicht gegenüber der Gesellschaft ist
+Ich stimme zu, dass die Arbeit immer an erster Stelle stehen sollte, auch wenn sie weniger Freizeit bedeutet
+Ich nicht zustimmen zu, dass die Arbeit immer an erster Stelle stehen sollte, auch wenn sie weniger Freizeit bedeutet
+Unsere Gesellschaft muss radikal verändert werden
+Unsere Gesellschaft muss schrittweise verändert werden
+Weniger Bedeutung, die der Arbeit in unserem Leben beigemessen wird, ist eine gute Sache
+Weniger Bedeutung, die der Arbeit in unserem Leben beigemessen wird, ist eine Schlechte Sache
+Eine stärkere Betonung der technologischen Entwicklung ist eine gute Sache
+Eine stärkere Betonung der technologischen Entwicklung ist eine Schlechte Sache
+Größerer Respekt vor Autorität ist eine gute Sache
+Größerer Respekt vor Autorität ist eine Schlechte Sache
+Alles zusammengenommen bin ich glücklich
+Alles zusammengenommen bin ich jetzt
+Alles in allem ist mein Gesundheitszustand gut
+Alles in allem ist mein Gesundheitszustand Arm
+Ich habe das Gefühl, dass ich die vollständige Kontrolle über mein Leben habe
+Ich habe das Gefühl, dass ich die Nein Kontrolle über mein Leben habe
+Alles in allem bin ich heute mit meinem Leben insgesamt zufrieden
+Alles in allem bin ich heute mit meinem Leben insgesamt unzufrieden
+Ich bin mit der finanziellen Situation meines Haushalts zufrieden
+Ich bin mit der finanziellen Situation meines Haushalts unzufrieden
+In den letzten 12 Monaten habe ich oder meine Familie oft nicht genug zu essen gehabt
+In den letzten 12 Monaten habe ich oder meine Familie noch nie nicht genug zu essen gehabt
+In den letzten 12 Monaten habe ich oder meine Familie sich oft unsicher vor Kriminalität in unserem Zuhause gefühlt
+In den letzten 12 Monaten habe ich oder meine Familie sich noch nie unsicher vor Kriminalität in unserem Zuhause gefühlt
+In den letzten 12 Monaten sind ich oder meine Familie oft ohne Medikamente oder medizinische Behandlung ausgekommen, die wir brauchten
+In den letzten 12 Monaten sind ich oder meine Familie noch nie ohne Medikamente oder medizinische Behandlung ausgekommen, die wir brauchten
+In den letzten 12 Monaten hatte ich oder meine Familie oft kein Geldeinkommen
+In den letzten 12 Monaten hatte ich oder meine Familie noch nie kein Geldeinkommen
+In den letzten 12 Monaten sind ich oder meine Familie oft ohne sicheren Unterschlupf über unserem Kopf ausgekommen
+In den letzten 12 Monaten sind ich oder meine Familie noch nie ohne sicheren Unterschlupf über unserem Kopf ausgekommen
+Wenn ich meinen Lebensstandard mit dem meiner Eltern vergleiche, als sie in meinem Alter waren, würde ich sagen, dass ich besser dran bin
+Wenn ich meinen Lebensstandard mit dem meiner Eltern vergleiche, als sie in meinem Alter waren, würde ich sagen, dass ich schlechter dran bin
+Im Allgemeinen kann man den meisten Menschen vertrauen
+Im Allgemeinen kann nicht man den meisten Menschen vertrauen
+Ich vertraue meiner Familie voll und ganz
+Ich nur knapp meiner Familie voll und ganz
+Ich vertraue den Menschen in meiner Nachbarschaft voll und ganz
+Ich nur knapp den Menschen in meiner Nachbarschaft voll und ganz
+Ich vertraue Menschen, die ich persönlich kenne, voll und ganz
+Ich nur knapp Menschen, die ich persönlich kenne, voll und ganz
+Menschen, die ich zum ersten Mal treffe, vertraue ich vollkommen
+Menschen, die ich zum ersten Mal treffe, nur knapp ich vollkommen
+Ich vertraue voll und ganz Menschen einer anderen Religion
+Ich nur knapp voll und ganz Menschen einer anderen Religion
+Ich vertraue Menschen einer anderen Nationalität voll und ganz
+Ich nur knapp Menschen einer anderen Nationalität voll und ganz
+Ich habe volles Vertrauen in die Kirchen
+Ich habe Nein Vertrauen in die Kirchen
+Ich habe volles Vertrauen in die Streitkräfte
+Ich habe Nein Vertrauen in die Streitkräfte
+Ich habe volles Vertrauen in die Presse
+Ich habe Nein Vertrauen in die Presse
+Ich habe volles Vertrauen in den Fernseher
+Ich habe Nein Vertrauen in den Fernseher
+Ich habe volles Vertrauen in die Gewerkschaften
+Ich habe Nein Vertrauen in die Gewerkschaften
+Ich habe vollstes Vertrauen in die Polizei
+Ich habe Nein Vertrauen in die Polizei
+Ich habe vollstes Vertrauen in die Gerichte
+Ich habe Nein Vertrauen in die Gerichte
+Ich habe volles Vertrauen in die Regierung
+Ich habe Nein Vertrauen in die Regierung
+Ich habe volles Vertrauen in politische Parteien
+Ich habe Nein Vertrauen in politische Parteien
+Ich habe volles Vertrauen in das Parlament
+Ich habe Nein Vertrauen in das Parlament
+Ich habe volles Vertrauen in den öffentlichen Dienst
+Ich habe Nein Vertrauen in den öffentlichen Dienst
+Ich habe volles Vertrauen in die Universitäten
+Ich habe Nein Vertrauen in die Universitäten
+Ich habe volles Vertrauen in die Wahlen
+Ich habe Nein Vertrauen in die Wahlen
+Ich habe volles Vertrauen in die großen Unternehmen
+Ich habe Nein Vertrauen in die großen Unternehmen
+Ich habe volles Vertrauen in die Banken
+Ich habe Nein Vertrauen in die Banken
+Ich habe volles Vertrauen in Umweltorganisationen
+Ich habe Nein Vertrauen in Umweltorganisationen
+Ich habe volles Vertrauen in die Frauenorganisationen
+Ich habe Nein Vertrauen in die Frauenorganisationen
+Ich habe volles Vertrauen in die karitativen oder humanitären Organisationen
+Ich habe Nein Vertrauen in die karitativen oder humanitären Organisationen
+Ich habe volles Vertrauen in die Europäische Union
+Ich habe Nein Vertrauen in die Europäische Union
+Ich habe volles Vertrauen in die Vereinten Nationen
+Ich habe Nein Vertrauen in die Vereinten Nationen
+Ich habe volles Vertrauen in den Internationalen Währungsfonds (IWF)
+Ich habe Nein Vertrauen in den Internationalen Währungsfonds (IWF)
+Ich habe volles Vertrauen in den Internationalen Strafgerichtshof (ICC)
+Ich habe Nein Vertrauen in den Internationalen Strafgerichtshof (ICC)
+Ich habe volles Vertrauen in die Nordatlantikpakt-Organisation (NATO)
+Ich habe Nein Vertrauen in die Nordatlantikpakt-Organisation (NATO)
+Ich habe volles Vertrauen in die Weltbank
+Ich habe Nein Vertrauen in die Weltbank
+Ich habe volles Vertrauen in die Weltgesundheitsorganisation (WHO)
+Ich habe Nein Vertrauen in die Weltgesundheitsorganisation (WHO)
+Ich habe volles Vertrauen in die Welthandelsorganisation (WTO)
+Ich habe Nein Vertrauen in die Welthandelsorganisation (WTO)
+Heutzutage wird viel über internationale Organisationen gesprochen. Manchmal wird gesagt, dass internationale Organisationen der Verbesserung des Lebens der Menschen Priorität einräumen sollten, auch wenn dies bedeuten kann, dass Entscheidungen nicht demokratisch getroffen werden. Ich denke, internationale Organisationen sollten der Demokratisierung Vorrang einräumen
+Heutzutage wird viel über internationale Organisationen gesprochen. Manchmal wird gesagt, dass internationale Organisationen der Verbesserung des Lebens der Menschen Priorität einräumen sollten, auch wenn dies bedeuten kann, dass Entscheidungen nicht Wirksam getroffen werden. Ich denke, internationale Organisationen sollten der Demokratisierung Vorrang einräumen
+Ich bin aktives Mitglied einer Kirche oder religiösen Organisation
+Ich bin inaktives Mitglied einer Kirche oder religiösen Organisation
+Ich bin aktives Mitglied einer Sport- oder Freizeitorganisation
+Ich bin inaktives Mitglied einer Sport- oder Freizeitorganisation
+Ich bin ein aktives Mitglied einer Kunst-, Musik- oder Bildungsorganisation
+Ich bin ein inaktives Mitglied einer Kunst-, Musik- oder Bildungsorganisation
+Ich bin aktives Mitglied der Gewerkschaft
+Ich bin inaktives Mitglied der Gewerkschaft
+Ich bin ein aktives Mitglied der politischen Partei
+Ich bin ein inaktives Mitglied der politischen Partei
+Ich bin ein aktives Mitglied der Umweltorganisation
+Ich bin ein inaktives Mitglied der Umweltorganisation
+Ich bin aktives Mitglied im Berufsverband
+Ich bin inaktives Mitglied im Berufsverband
+Ich bin ein aktives Mitglied einer humanitären oder wohltätigen Organisation
+Ich bin ein inaktives Mitglied einer humanitären oder wohltätigen Organisation
+Ich bin ein aktives Mitglied der Verbraucherorganisation
+Ich bin ein inaktives Mitglied der Verbraucherorganisation
+Ich bin ein aktives Mitglied der Selbsthilfegruppe, der Gruppe für gegenseitige Hilfe
+Ich bin ein inaktives Mitglied der Selbsthilfegruppe, der Gruppe für gegenseitige Hilfe
+Ich bin ein aktives Mitglied der Frauengruppe
+Ich bin ein inaktives Mitglied der Frauengruppe
+Ich bin ein aktives Mitglied einer anderen Organisation
+Ich bin ein inaktives Mitglied einer anderen Organisation
+Ich stimme zu, dass es stärkere Anreize für individuelle Anstrengungen geben sollte
+Ich nicht zustimmen zu, dass es stärkere Anreize für individuelle Anstrengungen geben sollte
+Ich stimme zu, dass die Einkommen gerechter gestaltet werden sollten
+Ich nicht zustimmen zu, dass die Einkommen gerechter gestaltet werden sollten
+Ich stimme zu, dass der staatliche Besitz von Unternehmen und Industrie erhöht werden sollte
+Ich nicht zustimmen zu, dass der staatliche Besitz von Unternehmen und Industrie erhöht werden sollte
+Ich stimme zu, dass das Privateigentum an Unternehmen und Industrie erhöht werden sollte
+Ich nicht zustimmen zu, dass das Privateigentum an Unternehmen und Industrie erhöht werden sollte
+Ich stimme zu, dass die Menschen mehr Verantwortung übernehmen sollten, um für sich selbst zu sorgen
+Ich nicht zustimmen zu, dass die Menschen mehr Verantwortung übernehmen sollten, um für sich selbst zu sorgen
+Ich stimme zu, dass die Regierung mehr Verantwortung übernehmen sollte, um sicherzustellen, dass alle versorgt sind
+Ich nicht zustimmen zu, dass die Regierung mehr Verantwortung übernehmen sollte, um sicherzustellen, dass alle versorgt sind
+Ich stimme zu, dass Wettbewerb gut ist
+Ich nicht zustimmen zu, dass Wettbewerb gut ist
+Ich stimme zu, dass Wettbewerb schädlich ist
+Ich nicht zustimmen zu, dass Wettbewerb schädlich ist
+Ich stimme zu, dass harte Arbeit auf lange Sicht normalerweise ein besseres Leben bringt
+Ich nicht zustimmen zu, dass harte Arbeit auf lange Sicht normalerweise ein besseres Leben bringt
+Ich stimme zu, dass harte Arbeit im Allgemeinen keinen Erfolg bringt – es ist eher eine Frage des Glücks und der Beziehungen
+Ich nicht zustimmen zu, dass harte Arbeit im Allgemeinen keinen Erfolg bringt – es ist eher eine Frage des Glücks und der Beziehungen
+Ich stimme zu, dass dem Schutz der Umwelt Priorität eingeräumt werden sollte, auch wenn dies zu einem langsameren Wirtschaftswachstum und einem gewissen Verlust von Arbeitsplätzen führt
+Ich nicht zustimmen zu, dass dem Schutz der Umwelt Priorität eingeräumt werden sollte, auch wenn dies zu einem langsameren Wirtschaftswachstum und einem gewissen Verlust von Arbeitsplätzen führt
+Ich stimme zu, dass Wirtschaftswachstum und die Schaffung von Arbeitsplätzen oberste Priorität haben sollten, auch wenn die Umwelt bis zu einem gewissen Grad darunter leidet
+Ich nicht zustimmen zu, dass Wirtschaftswachstum und die Schaffung von Arbeitsplätzen oberste Priorität haben sollten, auch wenn die Umwelt bis zu einem gewissen Grad darunter leidet
+In meinem Land gibt es reichlich Korruption
+In meinem Land gibt es Nein Korruption
+Ich glaube, dass alle staatlichen Behörden in Korruption verwickelt sind
+Ich glaube, dass keiner staatlichen Behörden in Korruption verwickelt sind
+Ich glaube, dass alle Führungskräfte in der Wirtschaft in Korruption verwickelt sind
+Ich glaube, dass keiner Führungskräfte in der Wirtschaft in Korruption verwickelt sind
+Ich glaube, dass alle lokalen Behörden in Korruption verwickelt sind
+Ich glaube, dass keiner lokalen Behörden in Korruption verwickelt sind
+Ich glaube, dass alle öffentlichen Dienstleister in Korruption verwickelt sind
+Ich glaube, dass keiner öffentlichen Dienstleister in Korruption verwickelt sind
+Ich glaube, dass alle Journalisten und Medien in Korruption verwickelt sind
+Ich glaube, dass keiner Journalisten und Medien in Korruption verwickelt sind
+Normale Leute wie ich oder Leute aus meiner Nachbarschaft müssen Polizisten, Anwälten, Ärzten, Lehrern und Beamten immer Bestechungsgelder zahlen, Geschenke machen oder ihnen einen Gefallen tun, um die Dienstleistungen zu bekommen, die wir brauchen
+Normale Leute wie ich oder Leute aus meiner Nachbarschaft müssen Polizisten, Anwälten, Ärzten, Lehrern und Beamten noch nie Bestechungsgelder zahlen, Geschenke machen oder ihnen einen Gefallen tun, um die Dienstleistungen zu bekommen, die wir brauchen
+Im Großen und Ganzen stimme ich zu, dass Frauen weniger korrupt sind als Männer
+Im Großen und Ganzen stimme ich nicht zustimmen dass Frauen weniger korrupt sind als Männer
+In diesem Land besteht ein hohes Risiko, für die Gewährung oder Annahme von Bestechungsgeldern, Geschenken oder Gefälligkeiten als Gegenleistung für öffentliche Dienste zur Rechenschaft gezogen zu werden
+In diesem Land besteht ein Nein Risiko, für die Gewährung oder Annahme von Bestechungsgeldern, Geschenken oder Gefälligkeiten als Gegenleistung für öffentliche Dienste zur Rechenschaft gezogen zu werden
+Der Einfluss der Einwanderer auf die Entwicklung meines Landes ist gut
+Der Einfluss der Einwanderer auf die Entwicklung meines Landes ist Schlecht
+Ich stimme zu, dass die Einwanderung wichtige Stellenangebote füllt
+Ich nicht zustimmen zu, dass die Einwanderung wichtige Stellenangebote füllt
+Ich stimme zu, dass Einwanderung die kulturelle Vielfalt stärkt
+Ich nicht zustimmen zu, dass Einwanderung die kulturelle Vielfalt stärkt
+Ich stimme zu, dass Einwanderung die Kriminalitätsrate erhöht
+Ich nicht zustimmen zu, dass Einwanderung die Kriminalitätsrate erhöht
+Ich stimme zu, dass die Einwanderung politischen Flüchtlingen, die anderswo verfolgt werden, Asyl gewährt
+Ich nicht zustimmen zu, dass die Einwanderung politischen Flüchtlingen, die anderswo verfolgt werden, Asyl gewährt
+Ich stimme zu, dass Einwanderung das Terrorismusrisiko erhöht
+Ich nicht zustimmen zu, dass Einwanderung das Terrorismusrisiko erhöht
+Ich stimme zu, dass Einwanderung Menschen aus armen Ländern ein besseres Leben bietet
+Ich nicht zustimmen zu, dass Einwanderung Menschen aus armen Ländern ein besseres Leben bietet
+Ich stimme zu, dass Einwanderung die Beschäftigung erhöht
+Ich nicht zustimmen zu, dass Einwanderung die Beschäftigung erhöht
+Ich stimme zu, dass Einwanderung zu sozialen Konflikten führt
+Ich nicht zustimmen zu, dass Einwanderung zu sozialen Konflikten führt
+Ich stimme zu, dass die Regierung jeden aus anderen Ländern, der will, lassen sollte
+Ich nicht zustimmen zu, dass die Regierung jeden aus anderen Ländern, der will, lassen sollte
+Ich stimme zu, dass die Regierung die Leute kommen lassen sollte, solange es Jobs gibt
+Ich nicht zustimmen zu, dass die Regierung die Leute kommen lassen sollte, solange es Jobs gibt
+Ich stimme zu, dass die Regierung die Zahl der Ausländer, die hierher kommen dürfen, streng begrenzen sollte
+Ich nicht zustimmen zu, dass die Regierung die Zahl der Ausländer, die hierher kommen dürfen, streng begrenzen sollte
+Ich stimme zu, dass die Regierung Menschen aus anderen Ländern verbieten sollte, hierher zu kommen
+Ich nicht zustimmen zu, dass die Regierung Menschen aus anderen Ländern verbieten sollte, hierher zu kommen
+Ich fühle mich in diesen Tagen sehr sicher
+Ich fühle mich in diesen Tagen nicht sicher
+Raubüberfälle sind in meiner Nachbarschaft häufig
+Raubüberfälle sind in meiner Nachbarschaft selten
+Alkoholkonsum auf der Straße ist in meiner Nachbarschaft häufig
+Alkoholkonsum auf der Straße ist in meiner Nachbarschaft selten
+In meiner Nachbarschaft kommt es häufig vor, dass Polizei oder Militär in das Privatleben von Menschen eingreifen
+In meiner Nachbarschaft kommt es selten vor, dass Polizei oder Militär in das Privatleben von Menschen eingreifen
+Rassistisches Verhalten ist in meiner Nachbarschaft häufig
+Rassistisches Verhalten ist in meiner Nachbarschaft selten
+In meiner Nachbarschaft gibt es häufig Drogenverkäufe auf der Straße
+In meiner Nachbarschaft gibt es selten Drogenverkäufe auf der Straße
+Straßengewalt und Kämpfe sind in meiner Nachbarschaft häufig
+Straßengewalt und Kämpfe sind in meiner Nachbarschaft selten
+In meiner Nachbarschaft kommt es häufig zu sexueller Belästigung
+In meiner Nachbarschaft kommt es selten zu sexueller Belästigung
+Ich habe es oft vermieden, aus Sicherheitsgründen viel Geld mitzunehmen
+Ich habe es noch nie vermieden, aus Sicherheitsgründen viel Geld mitzunehmen
+Ich bin nachts oft nicht aus Sicherheitsgründen ausgegangen
+Ich bin nachts noch nie nicht aus Sicherheitsgründen ausgegangen
+Ich habe oft ein Messer, eine Pistole oder eine andere Waffe zur Sicherheit bei mir getragen
+Ich habe noch nie ein Messer, eine Pistole oder eine andere Waffe zur Sicherheit bei mir getragen
+Ich mache mir große Sorgen, einen Job zu verlieren oder nicht zu finden
+Ich mache mir nicht Sorgen, einen Job zu verlieren oder nicht zu finden
+Ich mache mir große Sorgen, meinen Kindern keine gute Ausbildung ermöglichen zu können
+Ich mache mir nicht Sorgen, meinen Kindern keine gute Ausbildung ermöglichen zu können
+Im vergangenen Jahr wurde ich Einmal Opfer einer Straftat
+Im vergangenen Jahr wurde ich nicht Opfer einer Straftat
+Im vergangenen Jahr wurde meine Familie Einmal Opfer eines Verbrechens
+Im vergangenen Jahr wurde meine Familie nicht Opfer eines Verbrechens
+Ich mache mir große Sorgen über einen Krieg, an dem mein Land beteiligt ist
+Ich mache mir nicht Sorgen über einen Krieg, an dem mein Land beteiligt ist
+Ich habe große Angst vor einem Terroranschlag
+Ich habe nicht Angst vor einem Terroranschlag
+Ich habe große Angst vor einem Bürgerkrieg
+Ich habe nicht Angst vor einem Bürgerkrieg
+Ich finde Freiheit wichtig
+Ich finde Gleichberechtigung wichtig
+Ich finde Freiheit wichtig
+Ich finde Sicherheit wichtig
+Ich wäre bereit, für mein Land zu kämpfen, wenn es einen weiteren Krieg gibt
+Ich wäre nicht bereit, für mein Land zu kämpfen, wenn es einen weiteren Krieg gibt
+Ich halte ein hohes Wirtschaftswachstum für wichtig
+Ich halte ein hohes Wirtschaftswachstum für nan
+Ich halte es für wichtig, sicherzustellen, dass dieses Land über starke Verteidigungskräfte verfügt
+Ich halte es für nan, sicherzustellen, dass dieses Land über starke Verteidigungskräfte verfügt
+Ich halte es für wichtig, dass Menschen mehr Mitspracherecht darüber haben, wie die Dinge an ihrem Arbeitsplatz und in ihren Gemeinden erledigt werden
+Ich halte es für nan, dass Menschen mehr Mitspracherecht darüber haben, wie die Dinge an ihrem Arbeitsplatz und in ihren Gemeinden erledigt werden
+Ich halte den Versuch, unsere Städte und Landschaften zu gestalten, für wichtig
+Ich halte den Versuch, unsere Städte und Landschaften zu gestalten, für nan
+Ich würde sagen, die Aufrechterhaltung der Ordnung in der Nation ist wichtig
+Ich würde sagen, die Aufrechterhaltung der Ordnung in der Nation ist nan
+Ich würde sagen, den Menschen mehr Mitspracherecht bei wichtigen Regierungsentscheidungen zu geben
+Ich würde sagen, den Menschen mehr Mitspracherecht bei nanen Regierungsentscheidungen zu geben
+Ich würde sagen, dass der Kampf gegen steigende Preise wichtig ist
+Ich würde sagen, dass der Kampf gegen steigende Preise nan ist
+Ich würde sagen, dass der Schutz der Meinungsfreiheit wichtig ist
+Ich würde sagen, dass der Schutz der Meinungsfreiheit nan ist
+Meiner Meinung nach ist eine stabile Wirtschaft wichtig
+Meiner Meinung nach ist eine stabile Wirtschaft nan
+Meiner Meinung nach ist der Fortschritt hin zu einer weniger unpersönlichen und menschlicheren Gesellschaft wichtig
+Meiner Meinung nach ist der Fortschritt hin zu einer weniger unpersönlichen und menschlicheren Gesellschaft nan
+Meiner Meinung nach ist der Fortschritt hin zu einer Gesellschaft wichtig, in der Ideen mehr zählen als Geld
+Meiner Meinung nach ist der Fortschritt hin zu einer Gesellschaft nan, in der Ideen mehr zählen als Geld
+Meiner Meinung nach ist die Bekämpfung der Kriminalität wichtig
+Meiner Meinung nach ist die Bekämpfung der Kriminalität nan
+Ich stimme vollkommen zu, dass Wissenschaft und Technologie unser Leben gesünder, einfacher und komfortabler machen
+Ich nicht zustimmen vollkommen zu, dass Wissenschaft und Technologie unser Leben gesünder, einfacher und komfortabler machen
+Ich stimme vollkommen zu, dass es aufgrund von Wissenschaft und Technologie mehr Möglichkeiten für die nächste Generation geben wird
+Ich nicht zustimmen vollkommen zu, dass es aufgrund von Wissenschaft und Technologie mehr Möglichkeiten für die nächste Generation geben wird
+Ich stimme vollkommen zu, dass wir uns zu sehr auf Wissenschaft und Technologie verlassen und nicht genug auf den Glauben
+Ich nicht zustimmen vollkommen zu, dass wir uns zu sehr auf Wissenschaft und Technologie verlassen und nicht genug auf den Glauben
+Ich stimme vollkommen zu, dass eine der schlechten Auswirkungen der Wissenschaft darin besteht, dass sie die Vorstellungen der Menschen von richtig und falsch auflöst
+Ich nicht zustimmen vollkommen zu, dass eine der schlechten Auswirkungen der Wissenschaft darin besteht, dass sie die Vorstellungen der Menschen von richtig und falsch auflöst
+Ich stimme vollkommen zu, dass es für mich in meinem täglichen Leben nicht wichtig ist, etwas über Wissenschaft zu wissen
+Ich nicht zustimmen vollkommen zu, dass es für mich in meinem täglichen Leben nicht wichtig ist, etwas über Wissenschaft zu wissen
+Alles in allem würde ich sagen, dass es der Welt dank Wissenschaft und Technologie besser geht
+Alles in allem würde ich sagen, dass es der Welt dank Wissenschaft und Technologie schlechter geht
+Gott ist sehr wichtig in meinem Leben
+Gott ist nicht wichtig in meinem Leben
+Ich stimme zu, dass es Gott gibt
+Ich nicht zustimmen zu, dass es Gott gibt
+Ich stimme zu, dass es ein Leben nach dem Tod gibt
+Ich nicht zustimmen zu, dass es ein Leben nach dem Tod gibt
+Ich stimme zu, dass es die Hölle gibt
+Ich nicht zustimmen zu, dass es die Hölle gibt
+Ich stimme zu, dass es einen Himmel gibt
+Ich nicht zustimmen zu, dass es einen Himmel gibt
+Ich stimme voll und ganz zu, dass Religion immer Recht hat, wenn Wissenschaft und Religion in Konflikt geraten
+Ich nicht zustimmen voll und ganz zu, dass Religion immer Recht hat, wenn Wissenschaft und Religion in Konflikt geraten
+Ich stimme voll und ganz zu, dass die einzig akzeptable Religion meine Religion ist
+Ich nicht zustimmen voll und ganz zu, dass die einzig akzeptable Religion meine Religion ist
+Abgesehen von Hochzeiten und Beerdigungen besuche ich heutzutage oft Gottesdienste
+Abgesehen von Hochzeiten und Beerdigungen besuche ich heutzutage noch nie Gottesdienste
+Abgesehen von Hochzeiten und Beerdigungen bete ich oft
+Abgesehen von Hochzeiten und Beerdigungen bete ich noch nie
+Ich stimme zu, dass ich ein religiöser Mensch bin
+Ich nan zu, dass ich ein religiöser Mensch bin
+Ich stimme zu, dass ich Atheist bin
+Ich nan zu, dass ich Atheist bin
+Ich stimme zu, dass die grundlegende Bedeutung von Religion darin besteht, religiösen Normen und Zeremonien zu folgen
+Ich nan zu, dass die grundlegende Bedeutung von Religion darin besteht, religiösen Normen und Zeremonien zu folgen
+Ich stimme zu, dass die grundlegende Bedeutung von Religion darin besteht, anderen Menschen Gutes zu tun
+Ich nan zu, dass die grundlegende Bedeutung von Religion darin besteht, anderen Menschen Gutes zu tun
+Ich stimme zu, dass die grundlegende Bedeutung von Religion darin besteht, dem Leben nach dem Tod einen Sinn zu geben
+Ich nan zu, dass die grundlegende Bedeutung von Religion darin besteht, dem Leben nach dem Tod einen Sinn zu geben
+Ich stimme zu, dass die grundlegende Bedeutung von Religion darin besteht, dem Leben in dieser Welt einen Sinn zu geben
+Ich nan zu, dass die grundlegende Bedeutung von Religion darin besteht, dem Leben in dieser Welt einen Sinn zu geben
+Ich stimme vollkommen zu, dass man heutzutage oft Schwierigkeiten hat, zu entscheiden, welche moralischen Regeln die richtigen sind
+Ich nicht zustimmen vollkommen zu, dass man heutzutage oft Schwierigkeiten hat, zu entscheiden, welche moralischen Regeln die richtigen sind
+Die Inanspruchnahme staatlicher Leistungen, auf die Sie keinen Anspruch haben, ist immer berechtigt
+Die Inanspruchnahme staatlicher Leistungen, auf die Sie keinen Anspruch haben, ist noch nie berechtigt
+Die Vermeidung eines Fahrpreises in öffentlichen Verkehrsmitteln ist immer vertretbar
+Die Vermeidung eines Fahrpreises in öffentlichen Verkehrsmitteln ist noch nie vertretbar
+Der Diebstahl von Eigentum ist immer gerechtfertigt
+Der Diebstahl von Eigentum ist noch nie gerechtfertigt
+Steuerhinterziehung, wenn man eine Chance hat, ist immer vertretbar
+Steuerhinterziehung, wenn man eine Chance hat, ist noch nie vertretbar
+Jemand, der im Rahmen seiner Pflicht Bestechungsgelder annimmt, ist immer gerechtfertigt
+Jemand, der im Rahmen seiner Pflicht Bestechungsgelder annimmt, ist noch nie gerechtfertigt
+Homosexualität ist immer vertretbar
+Homosexualität ist noch nie vertretbar
+Prostitution ist immer vertretbar
+Prostitution ist noch nie vertretbar
+Abtreibung ist immer vertretbar
+Abtreibung ist noch nie vertretbar
+Eine Scheidung ist immer gerechtfertigt
+Eine Scheidung ist noch nie gerechtfertigt
+Sex vor der Ehe ist immer vertretbar
+Sex vor der Ehe ist noch nie vertretbar
+Selbstmord ist immer gerechtfertigt
+Selbstmord ist noch nie gerechtfertigt
+Euthanasie ist immer gerechtfertigt
+Euthanasie ist noch nie gerechtfertigt
+Dass ein Mann seine Frau schlägt, ist immer gerechtfertigt
+Dass ein Mann seine Frau schlägt, ist noch nie gerechtfertigt
+Dass Eltern Kinder schlagen, ist immer gerechtfertigt
+Dass Eltern Kinder schlagen, ist noch nie gerechtfertigt
+Gewalt gegen andere Menschen ist immer vertretbar
+Gewalt gegen andere Menschen ist noch nie vertretbar
+Terrorismus als politisches, ideologisches oder religiöses Mittel ist immer vertretbar
+Terrorismus als politisches, ideologisches oder religiöses Mittel ist noch nie vertretbar
+Gelegentlicher Sex ist immer gerechtfertigt
+Gelegentlicher Sex ist noch nie gerechtfertigt
+Politische Gewalt ist immer vertretbar
+Politische Gewalt ist noch nie vertretbar
+Die Todesstrafe ist immer gerechtfertigt
+Die Todesstrafe ist noch nie gerechtfertigt
+Die staatliche Überwachung von Personen in öffentlichen Bereichen sollte legal sein
+Die staatliche Überwachung von Personen in öffentlichen Bereichen sollte illegal sein
+Die staatliche Überwachung aller E-Mails und aller anderen im Internet ausgetauschten Informationen sollte legal sein
+Die staatliche Überwachung aller E-Mails und aller anderen im Internet ausgetauschten Informationen sollte illegal sein
+Das Sammeln von Informationen über Personen, die in diesem Land ohne deren Wissen leben, sollte legal sein
+Das Sammeln von Informationen über Personen, die in diesem Land ohne deren Wissen leben, sollte illegal sein
+Ich würde sagen, ich interessiere mich sehr für Politik
+Ich würde sagen, ich interessiere mich nicht für Politik
+Wenn ich mich mit Freunden treffe, diskutiere ich häufig über politische Angelegenheiten
+Wenn ich mich mit Freunden treffe, diskutiere ich noch nie über politische Angelegenheiten
+Ich nutze oft die Tageszeitung, um zu erfahren, was in meinem Land und in der Welt los ist
+Ich nutze noch nie die Tageszeitung, um zu erfahren, was in meinem Land und in der Welt los ist
+Ich nutze oft die Fernsehnachrichten, um zu erfahren, was in meinem Land und in der Welt vor sich geht
+Ich nutze noch nie die Fernsehnachrichten, um zu erfahren, was in meinem Land und in der Welt vor sich geht
+Ich nutze oft die Radionachrichten, um zu erfahren, was in meinem Land und in der Welt vor sich geht
+Ich nutze noch nie die Radionachrichten, um zu erfahren, was in meinem Land und in der Welt vor sich geht
+Ich benutze oft mein Mobiltelefon, um zu erfahren, was in meinem Land und in der Welt vor sich geht
+Ich benutze noch nie mein Mobiltelefon, um zu erfahren, was in meinem Land und in der Welt vor sich geht
+Ich benutze oft E-Mails, um zu erfahren, was in meinem Land und in der Welt vor sich geht
+Ich benutze noch nie E-Mails, um zu erfahren, was in meinem Land und in der Welt vor sich geht
+Ich nutze oft das Internet, um zu erfahren, was in meinem Land und in der Welt vor sich geht
+Ich nutze noch nie das Internet, um zu erfahren, was in meinem Land und in der Welt vor sich geht
+Ich nutze oft soziale Medien, um zu erfahren, was in meinem Land und in der Welt vor sich geht
+Ich nutze noch nie soziale Medien, um zu erfahren, was in meinem Land und in der Welt vor sich geht
+Ich spreche oft mit Freunden und Kollegen, um zu erfahren, was in meinem Land und in der Welt vor sich geht
+Ich spreche noch nie mit Freunden und Kollegen, um zu erfahren, was in meinem Land und in der Welt vor sich geht
+Eine Petition zu unterschreiben ist etwas, was ich immer getan habe
+Eine Petition zu unterschreiben ist etwas, was ich noch nie getan habe
+Boykotts mitzumachen ist etwas, was ich schon immer getan habe
+Boykotts mitzumachen ist etwas, was ich schon noch nie getan habe
+Ich habe immer an friedlichen Demonstrationen teilgenommen
+Ich habe noch nie an friedlichen Demonstrationen teilgenommen
+Streiks beizutreten ist etwas, was ich schon immer getan habe
+Streiks beizutreten ist etwas, was ich schon noch nie getan habe
+Spenden für eine Gruppe oder Kampagne ist etwas, was ich schon immer getan habe
+Spenden für eine Gruppe oder Kampagne ist etwas, was ich schon noch nie getan habe
+Einen Regierungsbeamten zu kontaktieren, ist etwas, was ich immer getan habe
+Einen Regierungsbeamten zu kontaktieren, ist etwas, was ich noch nie getan habe
+Andere dazu zu ermutigen, in politischen Fragen aktiv zu werden, habe ich schon immer getan
+Andere dazu zu ermutigen, in politischen Fragen aktiv zu werden, habe ich schon noch nie getan
+Andere zum Wählen zu ermutigen, ist etwas, das ich schon immer getan habe
+Andere zum Wählen zu ermutigen, ist etwas, das ich schon noch nie getan habe
+Die Suche nach Informationen über Politik und politische Ereignisse im Internet und in den sozialen Medien ist etwas, was ich schon immer getan habe
+Die Suche nach Informationen über Politik und politische Ereignisse im Internet und in den sozialen Medien ist etwas, was ich schon noch nie getan habe
+Eine elektronische Petition im Internet zu unterzeichnen, habe ich schon immer getan
+Eine elektronische Petition im Internet zu unterzeichnen, habe ich schon noch nie getan
+Ich habe schon immer andere Menschen dazu ermutigt, über das Internet und die sozialen Medien in irgendeiner Form politisch aktiv zu werden
+Ich habe schon noch nie andere Menschen dazu ermutigt, über das Internet und die sozialen Medien in irgendeiner Form politisch aktiv zu werden
+Ich habe schon immer politische Aktivitäten, Veranstaltungen und Proteste über das Internet und soziale Medien organisiert
+Ich habe schon noch nie politische Aktivitäten, Veranstaltungen und Proteste über das Internet und soziale Medien organisiert
+Auf lokaler Ebene wähle ich immer
+Auf lokaler Ebene wähle ich noch nie
+Auf nationaler Ebene wähle ich immer
+Auf nationaler Ebene wähle ich noch nie
+In meinem Land werden die Stimmen oft fair gezählt
+In meinem Land werden die Stimmen noch nie fair gezählt
+In meinem Land werden Oppositionskandidaten oft daran gehindert zu kandidieren
+In meinem Land werden Oppositionskandidaten noch nie daran gehindert zu kandidieren
+In meinem Land bevorzugen die Fernsehnachrichten oft die Regierungspartei
+In meinem Land bevorzugen die Fernsehnachrichten noch nie die Regierungspartei
+In meinem Land werden Wähler oft bestochen
+In meinem Land werden Wähler noch nie bestochen
+In meinem Land berichten Journalisten oft fair über Wahlen
+In meinem Land berichten Journalisten noch nie fair über Wahlen
+In meinem Land sind Wahlbeamte oft fair
+In meinem Land sind Wahlbeamte noch nie fair
+In meinem Land kaufen reiche Leute oft Wahlen
+In meinem Land kaufen reiche Leute noch nie Wahlen
+In meinem Land wird den Wählern bei den Wahlen oft mit Gewalt gedroht
+In meinem Land wird den Wählern bei den Wahlen noch nie mit Gewalt gedroht
+In meinem Land wird den Wählern bei den Wahlen oft eine echte Wahlmöglichkeit geboten
+In meinem Land wird den Wählern bei den Wahlen noch nie eine echte Wahlmöglichkeit geboten
+In meinem Land haben Frauen oft die gleichen Möglichkeiten, das Büro zu leiten
+In meinem Land haben Frauen noch nie die gleichen Möglichkeiten, das Büro zu leiten
+Ich denke, dass es sehr wichtig ist, ehrliche Wahlen zu haben
+Ich denke, dass es nicht wichtig ist, ehrliche Wahlen zu haben
+Einen starken Führer zu haben, der sich nicht um Parlamente und Wahlen kümmern muss, ist sehr gut
+Einen starken Führer zu haben, der sich nicht um Parlamente und Wahlen kümmern muss, ist sehr Schlecht
+Es ist sehr gut, dass Experten und nicht die Regierung Entscheidungen treffen, die ihrer Meinung nach für das Land am besten sind
+Es ist sehr Schlecht, dass Experten und nicht die Regierung Entscheidungen treffen, die ihrer Meinung nach für das Land am besten sind
+Die Armeeherrschaft zu haben ist sehr gut
+Die Armeeherrschaft zu haben ist sehr Schlecht
+Ein demokratisches politisches System zu haben ist sehr gut
+Ein demokratisches politisches System zu haben ist sehr Schlecht
+Es ist sehr gut, ein religiöses Gesetz zu haben, in dem es keine politischen Parteien oder Wahlen gibt
+Es ist sehr Schlecht, ein religiöses Gesetz zu haben, in dem es keine politischen Parteien oder Wahlen gibt
+In politischen Angelegenheiten stelle ich meine Ansichten auf die Linke
+In politischen Angelegenheiten stelle ich meine Ansichten auf die rechts
+Ich denke, Regierungen, die die Reichen besteuern und die Armen subventionieren, sind ein wesentliches Merkmal der Demokratie
+Ich denke, Regierungen, die die Reichen besteuern und die Armen subventionieren, sind ein unwesentliches Merkmal der Demokratie
+Ich denke, religiöse Autoritäten, die letztendlich die Gesetze interpretieren, sind ein wesentliches Merkmal der Demokratie
+Ich denke, religiöse Autoritäten, die letztendlich die Gesetze interpretieren, sind ein unwesentliches Merkmal der Demokratie
+Ich denke, dass Menschen ihre Führer in freien Wahlen wählen, ist ein wesentliches Merkmal der Demokratie
+Ich denke, dass Menschen ihre Führer in freien Wahlen wählen, ist ein unwesentliches Merkmal der Demokratie
+Ich denke, dass Menschen, die staatliche Hilfen für Arbeitslosigkeit erhalten, ein wesentliches Merkmal der Demokratie sind
+Ich denke, dass Menschen, die staatliche Hilfen für Arbeitslosigkeit erhalten, ein unwesentliches Merkmal der Demokratie sind
+Ich denke, dass die Armee übernimmt, wenn die Regierung inkompetent ist, ist ein wesentliches Merkmal der Demokratie
+Ich denke, dass die Armee übernimmt, wenn die Regierung inkompetent ist, ist ein unwesentliches Merkmal der Demokratie
+Ich denke, Bürgerrechte, die Menschen schützen, sind ein wesentliches Merkmal der Demokratie
+Ich denke, Bürgerrechte, die Menschen schützen, sind ein unwesentliches Merkmal der Demokratie
+Ich denke, dass der Staat, der die Einkommen der Menschen ungleich macht, ein wesentliches Merkmal der Demokratie ist
+Ich denke, dass der Staat, der die Einkommen der Menschen ungleich macht, ein unwesentliches Merkmal der Demokratie ist
+Ich denke, dass Menschen ihren Herrschern gehorchen, ist ein wesentliches Merkmal der Demokratie
+Ich denke, dass Menschen ihren Herrschern gehorchen, ist ein unwesentliches Merkmal der Demokratie
+Ich denke, dass Frauen die gleichen Rechte wie Männer haben, ist ein wesentliches Merkmal der Demokratie
+Ich denke, dass Frauen die gleichen Rechte wie Männer haben, ist ein unwesentliches Merkmal der Demokratie
+Für mich ist es absolut wichtig, in einem demokratisch gewählten Land zu leben
+Für mich ist es nicht wichtig, in einem demokratisch gewählten Land zu leben
+Ich denke, mein Land ist vollkommen demokratisch
+Ich denke, mein Land ist nicht demokratisch
+Ich bin zufrieden damit, wie das politische System in meinem Land funktioniert
+Ich bin unzufrieden damit, wie das politische System in meinem Land funktioniert
+Ich bin sehr stolz darauf, ein Bürger meines Landes zu sein
+Ich bin nicht stolz darauf, ein Bürger meines Landes zu sein
+Ich fühle mich meiner Stadt, meinem Dorf oder meiner Stadt sehr verbunden
+Ich fühle mich meiner Stadt, meinem Dorf oder meiner Stadt nicht verbunden
+Ich fühle mich meinem Kreis, Bezirk oder meiner Region sehr verbunden
+Ich fühle mich meinem Kreis, Bezirk oder meiner Region nicht verbunden
+Ich fühle mich meinem Land sehr verbunden
+Ich fühle mich meinem Land nicht verbunden
+Ich fühle mich meinem Kontinent sehr verbunden
+Ich fühle mich meinem Kontinent nicht verbunden
+Ich fühle mich der Welt sehr nahe
+Ich fühle mich der Welt nicht nahe
