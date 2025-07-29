@@ -7,7 +7,7 @@ This repository contains the dataset and code for the paper "Isolating Culture N
 1. Preparing data:
     ```bash
     pip install torch transformers datasets
-    cd LAPE
+    cd CAPE
     python prepare_language_corpora.py --tag mdl # Llama-2-7b, Llama-3.1-8b, Gemma-3-12b, Qwen2.5-7b
     python prepare_culture_corpora.py --tag mdl
     ```
